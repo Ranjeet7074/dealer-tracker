@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/dealer-search-app/static/css/main.488727b4.css",
-    "main.js": "/dealer-search-app/static/js/main.65027ebb.js",
-    "index.html": "/dealer-search-app/index.html",
-    "main.488727b4.css.map": "/dealer-search-app/static/css/main.488727b4.css.map",
-    "main.65027ebb.js.map": "/dealer-search-app/static/js/main.65027ebb.js.map"
+    "main.css": "/dealer-tracker/static/css/main.488727b4.css",
+    "main.js": "/dealer-tracker/static/js/main.65027ebb.js",
+    "index.html": "/dealer-tracker/index.html",
+    "main.488727b4.css.map": "/dealer-tracker/static/css/main.488727b4.css.map",
+    "main.65027ebb.js.map": "/dealer-tracker/static/js/main.65027ebb.js.map"
   },
   "entrypoints": [
     "static/css/main.488727b4.css",
