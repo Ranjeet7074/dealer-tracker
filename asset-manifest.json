@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/dealer-tracker/static/css/main.00bda972.css",
-    "main.js": "/dealer-tracker/static/js/main.415df5ae.js",
+    "main.css": "/dealer-tracker/static/css/main.ea3a1ff8.css",
+    "main.js": "/dealer-tracker/static/js/main.0573cb64.js",
     "index.html": "/dealer-tracker/index.html",
-    "main.00bda972.css.map": "/dealer-tracker/static/css/main.00bda972.css.map",
-    "main.415df5ae.js.map": "/dealer-tracker/static/js/main.415df5ae.js.map"
+    "main.ea3a1ff8.css.map": "/dealer-tracker/static/css/main.ea3a1ff8.css.map",
+    "main.0573cb64.js.map": "/dealer-tracker/static/js/main.0573cb64.js.map"
   },
   "entrypoints": [
-    "static/css/main.00bda972.css",
-    "static/js/main.415df5ae.js"
+    "static/css/main.ea3a1ff8.css",
+    "static/js/main.0573cb64.js"
   ]
 }
